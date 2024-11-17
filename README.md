@@ -1,11 +1,13 @@
+<img src="https://64.media.tumblr.com/cca4f06484b447c0687f0325af5b38c9/428a8db1dc8ae92f-87/s1280x1920/7c751558b1d93e15c2d885cff2162ddb95059b8d.gif" width='1200px' alt="Banner" />
+
 <h1 align="center">Hi 👋, I'm Tahmidul Islam</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="center">I'm a passionate web developer diving deep into building modern, scalable, and user-friendly web applications. My focus lies in leveraging React, JavaScript, and the MERN stack to create projects that merge functionality with clean design.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tahmidtausif" alt="tahmidtausif" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tahmidtausif&label=Profile%20views&color=0e75b6&style=flat" alt="tahmidtausif" /> </p>
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently learning **typescript, mongoDB, Express, Next**
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **react, javascript**
 
 - 📫 How to reach me **tahmidtausif66@gmail.com**
 
@@ -20,3 +22,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tahmidtausif&show_icons=true&locale=en&layout=compact" alt="tahmidtausif" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tahmidtausif&show_icons=true&locale=en" alt="tahmidtausif" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tahmidtausif&" alt="tahmidtausif" /></p>
