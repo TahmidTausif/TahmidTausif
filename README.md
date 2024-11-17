@@ -1,4 +1,4 @@
-<img src="https://64.media.tumblr.com/cca4f06484b447c0687f0325af5b38c9/428a8db1dc8ae92f-87/s1280x1920/7c751558b1d93e15c2d885cff2162ddb95059b8d.gif" width='1200px' alt="Banner" />
+<img src="https://camo.githubusercontent.com/6f87276238fc4d6742e582f1084db307e09aec5e9f223bea9935204fdfe3e5d7/68747470733a2f2f737465616d75736572696d616765732d612e616b616d616968642e6e65742f7567632f313735303139323538303737373332363336302f333434333938313339313833393146333344354235413638314344314532463830333530353643322f" width='1200px' alt="Banner" />
 
 <h1 align="center">Hi 👋, I'm Tahmidul Islam</h1>
 <h3 align="center">I'm a passionate web developer diving deep into building modern, scalable, and user-friendly web applications. My focus lies in leveraging React, JavaScript, and the MERN stack to create projects that merge functionality with clean design.</h3>
