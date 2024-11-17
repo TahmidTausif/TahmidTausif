@@ -17,7 +17,9 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,express,figma,firebase,latex,mongodb,netlify,nodejs,npm,py,react,tailwind,ts,vscode,)](https://skillicons.dev)
+<p>
+  <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,express,figma,firebase,latex,mongodb,netlify,nodejs,npm,py,react,tailwind,ts,vscode" alt="skills icons" />
+</p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tahmidtausif&show_icons=true&locale=en&layout=compact" alt="tahmidtausif" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tahmidtausif&show_icons=true&locale=en" alt="tahmidtausif" /></p>
