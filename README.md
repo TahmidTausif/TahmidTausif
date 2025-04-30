@@ -18,7 +18,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p>
-  <img src="https://skillicons.dev/icons?i=js,html,css,nextjs,redux,react,express,mongodb,nodejs,ts,tailwind,bootstrap,figma,firebase,latex,netlify,npm,py,vscode" alt="skills icons" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,nextjs,redux,react,express,mongodb,nodejs,ts,tailwind,postman,bootstrap,figma,firebase,latex,netlify,npm,py,vscode,git" alt="skills icons" />
 </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tahmidtausif&show_icons=true&locale=en&layout=compact" alt="tahmidtausif" /></p>
 
