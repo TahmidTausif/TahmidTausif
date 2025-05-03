@@ -10,7 +10,8 @@ I'm a passionate web developer diving deep into building modern, scalable, and u
 - 📫 How to reach me **tahmidtausif66@gmail.com**
 
 ### Connect with me:
-[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://linkedin.com/in/tahmidul-islam3)
+[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="30" height="30" />](https://linkedin.com/in/tahmidul-islam3)
+
 
 ### Languages and Tools:
 ![Skills Icons](https://skillicons.dev/icons?i=js,html,css,nextjs,redux,react,express,mongodb,nodejs,ts,tailwind,postman,bootstrap,figma,firebase,latex,netlify,npm,py,vscode,git)
