@@ -26,7 +26,7 @@
 <p align='left'>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tahmidtausif&show_icons=true&locale=en&layout=compact" alt="tahmidtausif" />
 </p>
-
+<br/>
 <h3 align="left">Github Stats:</h3>
 <p align='left'>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=tahmidtausif&show_icons=true&locale=en" alt="tahmidtausif" />
