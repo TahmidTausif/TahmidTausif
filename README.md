@@ -31,8 +31,8 @@
 <p align='left'>
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=tahmidtausif&show_icons=true&locale=en" alt="tahmidtausif" />
 </p>
-
+<br/>
 <h3 align="left">My Streak:</h3>
 <p align='left'>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tahmidtausif" alt="tahmidtausif" />
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=tahmidtausif" alt="tahmidtausif" />
 </p>
