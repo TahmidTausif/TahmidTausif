@@ -20,8 +20,13 @@
 <p>
   <img src="https://skillicons.dev/icons?i=js,html,css,nextjs,redux,react,express,mongodb,nodejs,ts,tailwind,postman,bootstrap,figma,firebase,latex,netlify,npm,py,vscode,git" alt="skills icons" />
 </p>
+
+<h3 align="left">Languages I work with:</h3>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tahmidtausif&show_icons=true&locale=en&layout=compact" alt="tahmidtausif" /></p>
 
+<h3 align="left">Github Stats:</h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tahmidtausif&show_icons=true&locale=en" alt="tahmidtausif" /></p>
 
+<h3 align="left">My Streak:</h3>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tahmidtausif" alt="tahmidtausif" /></p>
