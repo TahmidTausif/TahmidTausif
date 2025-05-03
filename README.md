@@ -29,7 +29,7 @@
 <br/>
 <h3 align="left">Github Stats:</h3>
 <p align='left'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tahmidtausif&show_icons=true&locale=en" alt="tahmidtausif" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=tahmidtausif&show_icons=true&locale=en" alt="tahmidtausif" />
 </p>
 
 <h3 align="left">My Streak:</h3>
