@@ -30,8 +30,7 @@
 | **Database**                | ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb) |
 | **Tools & Platforms**       | ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github) ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase) ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman) ![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code) ![Netlify](https://img.shields.io/badge/-Netlify-333333?style=flat&logo=netlify) ![npm](https://img.shields.io/badge/-npm-333333?style=flat&logo=npm) ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma) ![LaTeX](https://img.shields.io/badge/-LaTeX-333333?style=flat&logo=latex) |
 
-#### 🔧 Skill Icons
-![Skills Icons](https://skillicons.dev/icons?i=js,html,css,nextjs,redux,react,express,mongodb,nodejs,ts,tailwind,postman,bootstrap,figma,firebase,latex,netlify,npm,py,vscode,git)
+
 
 ###
 ###
